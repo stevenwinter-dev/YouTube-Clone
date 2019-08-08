@@ -1,8 +1,9 @@
 import React, { Component } from 'react';
+import { Grid } from '@material-ui/core';
 
 const VideoList = () => {
     return(
-        <h1>This is a video detail component</h1>
+        <h1>Video List</h1>
     )
 }
 export default VideoList;
